@@ -59,3 +59,4 @@ contract FlashLoanArbitrage{
         IERC20(token).transfer(profitWallet, bal);
     }
 }
+./git_push.sh
