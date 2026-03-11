@@ -24,3 +24,5 @@ jobs:
         env:
           PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
         run: npm run deploy
+        .env
+node_modules/
